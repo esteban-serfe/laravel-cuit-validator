@@ -1,5 +1,5 @@
 {
-  "name": "estebanzserfe/laravel-cuit-validator",
+  "name": "esteban-serfe/laravel-cuit-validator",
   "description": "Argentinian CUIT and CUIL Validator",
   "type": "library",
   "keywords": [
